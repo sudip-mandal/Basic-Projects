@@ -17,3 +17,19 @@ These projects are ideal for:
 | Basic Portfolio     | a simple portfolio with my all my projects  and basic details  | HTML                    |
 | Amazon Clone        | A basic clone of the Amazon homepage (static)                  | HTML, CSS               |
 | To-Do List          | A simple task management tool with add/delete/edit             | HTML, CSS, JavaScript   |
+
+> More projects will be added, including beginner backend applications (Node.js, Express, MongoDB).
+
+## Getting Started
+
+To run any project:
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/your-username/basic-projects.git
+2. Navigate to the specific project folder:
+   ```bash
+   cd basic-projects/todo-list
+3.Open index.html in your browser, or use Live Server in VS Code.
+
+##  Author
+Sudip Mandal- [GitHub Profile](https://github.com/sudip-mandal)
