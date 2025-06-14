@@ -14,7 +14,7 @@ These projects are ideal for:
 
 | Project Name        | Description                                                    | Tech Stack              |
 |---------------------|----------------------------------------------------------------|-------------------------|
-| Basic Portfolio     | a simple portfolio with my all my projects  and basic details  | HTML                    |
+| Basic Portfolio     | a simple portfolio with all my projects  and basic details  | HTML                    |
 | Amazon Clone        | A basic clone of the Amazon homepage (static)                  | HTML, CSS               |
 | To-Do List          | A simple task management tool with add/delete/edit             | HTML, CSS, JavaScript   |
 
