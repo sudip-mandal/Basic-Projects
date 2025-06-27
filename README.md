@@ -12,11 +12,13 @@ These projects are ideal for:
 
 ##  Projects Included
 
-| Project Name        | Description                                                    | Tech Stack              |
-|---------------------|----------------------------------------------------------------|-------------------------|
-| Basic Portfolio     | a simple portfolio with all my projects  and basic details  | HTML                    |
-| Amazon Clone        | A basic clone of the Amazon homepage (static)                  | HTML, CSS               |
-| To-Do List          | A simple task management tool with add/delete/edit             | HTML, CSS, JavaScript   |
+| Project Name        | Description                                                              | Tech Stack              |
+|---------------------|--------------------------------------------------------------------------|-------------------------|
+| Basic Portfolio     | a simple portfolio with all my projects  and basic details               | HTML                    |
+| Amazon Clone        | A basic clone of the Amazon homepage (static)                            | HTML, CSS               |
+| To-Do List          | A simple task management tool with add/delete/edit                       | HTML, CSS, JavaScript   |
+| Joke Generator      | Generates random jokes using an API and tracks joke history              | HTML, CSS, JavaScript   |
+| Rock Paper Scissors | A game where the user plays against the computer, with score tracking    | HTML, CSS, JavaScript   |
 
 > More projects will be added, including beginner backend applications (Node.js, Express, MongoDB).
 
