@@ -1,0 +1,32 @@
+
+body {
+  font-family: Arial, sans-serif;
+    padding: 2em;
+    text-align: center;
+    background: #f0f0f0;
+    background: radial-gradient(circle, red 0%, yellow 40%, green 70%);
+}
+#joke {
+    margin: 20px auto;
+    font-size: 1.5em;
+    max-width: 600px;
+}
+button {
+    padding: 10px 20px;
+    font-size: 1em;
+    cursor: pointer;
+    background: linear-gradient(to right,rgb(40, 205, 48),rgba(34, 76, 128, 0.275));
+}
+  #history {
+      margin-top: 40px;
+      text-align: left;
+      max-width: 600px;
+      margin-left: auto;
+      margin-right: auto;
+    }
+    .history-item {
+      margin-bottom: 10px;
+      padding: 10px;
+      background: #fff;
+      border-left: 4px solid #0077cc;
+    }
