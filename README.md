@@ -19,6 +19,7 @@ These projects are ideal for:
 | To-Do List          | A simple task management tool with add/delete/edit                       | HTML, CSS, JavaScript   |
 | Joke Generator      | Generates random jokes using an API and tracks joke history              | HTML, CSS, JavaScript   |
 | Rock Paper Scissors | A game where the user plays against the computer, with score tracking    | HTML, CSS, JavaScript   |
+| Currency-Convertor  | Converts currency values using real-time exchange rates from an API      | HTML, CSS, JavaScript   |
 
 > More projects will be added, including beginner backend applications (Node.js, Express, MongoDB).
 
